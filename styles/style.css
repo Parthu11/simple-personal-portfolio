@@ -62,19 +62,15 @@ h3 {
 .skills a:link,
 .skills a:visited {
   font-size: 16px;
+  font-weight: bold;
   text-decoration: none;
   padding: 4px 8px;
   margin-right: 10px;
+  border: 0;
   border-radius: 10px;
   background-color: #2c455e;
-  border: 0;
+  box-shadow: 0px 5px 3px 1px rgba(0, 0, 0, 0.2);
   color: #c8d7f0;
-}
-
-.skills a:hover {
-  font-weight: bold;
-  background-color: #607387;
-  box-shadow: 0px 10px 3px 1px rgba(0, 0, 0, 0.2);
 }
 
 .socials {
