@@ -78,7 +78,9 @@ h3 {
 }
 
 .socials img {
-  display: inline-block;
+  position: relative;
+  bottom: -4px;
+  left: -2px;
 }
 
 .socials a {
